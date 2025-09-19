@@ -1,0 +1,15 @@
+Formula error message
+	When writing formulas, it is easy to make a mistake: listed below are some common error messages.
+
+#######
+The contents of the cell cannot be displayed correctly as the column is too narrow.
+
+#REF!
+Indicates that a cell reference is invalid. This is often displayed when you delete cells which are involved in a formula.
+
+#NAME?
+Excel does not recognized text contained within a formula.
+
+#DIV/0!
+This indicates that you have tried to divide a number by zero (0).
+
